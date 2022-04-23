@@ -1,0 +1,22 @@
+[
+  {
+    "nama": "Muhammad",
+    "umur": 20,
+    "nrp": "202210044",
+    "lulus": true,
+    "hobby": ["ngoding", "gaming"],
+    "pembimbing": "dwi"
+  },
+  {
+    "nama": "Muhammad",
+    "umur": 20,
+    "nrp": "202210044",
+    "lulus": true,
+    "hobby": ["ngoding", "gaming"],
+    "pembimbing": {
+        "pembimbing1" : "dwi",
+        "pembimbing2" : "dwi2"
+
+    }
+  }
+]
